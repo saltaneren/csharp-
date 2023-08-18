@@ -1,0 +1,11 @@
+C:\Users\erens\source\repos\stajodevim\stajodevim\bin\Debug\stajodevim.exe.config
+C:\Users\erens\source\repos\stajodevim\stajodevim\bin\Debug\stajodevim.exe
+C:\Users\erens\source\repos\stajodevim\stajodevim\bin\Debug\stajodevim.pdb
+C:\Users\erens\source\repos\stajodevim\stajodevim\obj\Debug\stajodevim.csproj.AssemblyReference.cache
+C:\Users\erens\source\repos\stajodevim\stajodevim\obj\Debug\stajodevim.Form1.resources
+C:\Users\erens\source\repos\stajodevim\stajodevim\obj\Debug\stajodevim.frmMesaj.resources
+C:\Users\erens\source\repos\stajodevim\stajodevim\obj\Debug\stajodevim.Properties.Resources.resources
+C:\Users\erens\source\repos\stajodevim\stajodevim\obj\Debug\stajodevim.csproj.GenerateResource.cache
+C:\Users\erens\source\repos\stajodevim\stajodevim\obj\Debug\stajodevim.csproj.CoreCompileInputs.cache
+C:\Users\erens\source\repos\stajodevim\stajodevim\obj\Debug\stajodevim.exe
+C:\Users\erens\source\repos\stajodevim\stajodevim\obj\Debug\stajodevim.pdb
